@@ -9,3 +9,5 @@ Reset vs Revert: Reset is danger, revert is safe
 Bad shit: it's shit but bad
 
 Beautiful cherries: delicious.
+
+Three: it's gonna cause a merge conflict.
